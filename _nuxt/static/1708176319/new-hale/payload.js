@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/new-hale", {data:[{}],fetch:{},mutations:void 0});
