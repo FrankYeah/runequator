@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/run-deal", {data:[{}],fetch:{},mutations:void 0});
