@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/wan-run", {data:[{}],fetch:{},mutations:void 0});

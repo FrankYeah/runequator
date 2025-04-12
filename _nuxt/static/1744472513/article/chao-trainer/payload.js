@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/chao-trainer", {data:[{}],fetch:{},mutations:void 0});
